@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc marbles_game.c -o marbles_game; ./marbles_game"
